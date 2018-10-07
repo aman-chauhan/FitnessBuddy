@@ -2,7 +2,7 @@
 # Hackathon project for HackNc
 
 ## Inspiration
-We interacted with a lot of people throughout the course of our lives who wanted to be healthy and fit but didn’t want to track their daily calorie intake, exercise statistics and fitness progress themselves. So, we developed a smart SlackBot, fitnessBuddy, to help them meet their goals.
+12.7 million: That's the number of American kids who fall under the category of being obese. We wanted to transform the fitness industry and hence we came up with the idea of Fitness Buddy: your personal fitness assistant.
 
 ## What it does
 1. **Sign-up**: It is integrated with calorie goal finder that calculates the ideal daily calorie intake for the user based on the user’s BMR.
@@ -41,3 +41,41 @@ Cisco Webex API was used to schedule meetings with consultants and the ZipCode A
 3. Development of UI as a web/native application to increase the customer base.
 4. Use of multi-factor authentication.
 5. Use of Machine Learning to analyse the data of a user over time and predict useful tips for the user.
+
+## Gallery
+
+### Help and Introduction
+
+![Help](docs/image1.png)
+
+### Sign Up
+
+![SignUp](docs/image2.png)
+
+### Calorie Tracking with Food Consumption
+
+![Food Consumption](docs/image3.png)
+
+### Calories Burned with Exercise Tracking
+
+![Exercise Tracking](docs/image4.png)
+
+### Food Suggestions based on Calorie Deficit
+
+![Food Suggestions](docs/image5.png)
+
+### Available Health Consultants
+
+![Consultants](docs/image6.png)
+
+### Schedule Meeting with Consultant
+
+![Meeting](docs/image7.png)
+
+### Cisco Webex Invite
+
+![Invite](docs/image8.png)
+
+### Email Invite
+
+![Email](docs/image9.png)
